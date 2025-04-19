@@ -19,7 +19,7 @@ A plataforma é acessível via aplicativo mobile e web, com foco na experiência
 
 ## 👨‍💻 Tecnologias utilizadas
 
-> (Aqui você pode listar o que usar: React Native, Vue.js, PHP-Laravel e MySQL.)
+> React Native, Vue.js, PHP-Laravel e MySQL.
 
 ## 💼 Contato
 
