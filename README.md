@@ -15,18 +15,17 @@ Nosso objetivo é oferecer uma solução completa, prática e eficiente para o s
 
 ## 📱 Sobre o App
 
-A plataforma é acessível via aplicativo mobile, com foco na experiência do usuário, segurança nas transações e agilidade nas operações do evento.
+A plataforma é acessível via aplicativo mobile e web, com foco na experiência do usuário, segurança nas transações e agilidade nas operações do evento.
 
 ## 👨‍💻 Tecnologias utilizadas
 
-> (Aqui você pode listar o que usar: React Native, Node.js, Firebase, etc.)
+> (Aqui você pode listar o que usar: React Native, Vue.js, PHP-Laravel e MySQL.)
 
 ## 💼 Contato
 
 Para parcerias, sugestões ou dúvidas:
-- contato@goodparty.com.br *(exemplo)*
-- [Instagram](https://instagram.com/seuapp) | [Site oficial](https://goodparty.com.br)
-
----
+----
+----
+----
 
 > A GoodParty é uma startup brasileira focada em tecnologia para o entretenimento. Nosso propósito é fazer com que a experiência de festas e eventos seja simples, divertida e rentável para todos os envolvidos.
