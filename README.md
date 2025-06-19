@@ -22,7 +22,7 @@ A plataforma é acessível via aplicativo mobile e web, com foco na experiência
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
-  <img src="[https://cdn.simpleicons.org/node-dot-js/339933](https://nodejs.org/static/logos/nodejsStackedDark.svg)" height="40" alt="Node.js"/>
+  <img src="https://img.icons8.com/fluent/512/node-js.png" height="40" alt="Node.js"/>
 </p>
 
 ## 💼 Contato
