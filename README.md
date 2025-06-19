@@ -22,6 +22,7 @@ A plataforma é acessível via aplicativo mobile e web, com foco na experiência
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js"/>
   <img src="https://img.icons8.com/fluent/512/node-js.png" height="40" alt="Node.js"/>
+   <img src="https://nuxt.com/assets/design-kit/icon-green.svg" height="40" alt="Nuxt.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
 </p>
 
