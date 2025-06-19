@@ -20,11 +20,9 @@ A plataforma é acessível via aplicativo mobile e web, com foco na experiência
 ## 👨‍💻 Tecnologias utilizadas
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
-   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="Laravel"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  <img src="https://cdn.simpleicons.org/node-dot-js/339933" height="40" alt="Node.js"/>
 </p>
 
 ## 💼 Contato
